@@ -13,16 +13,16 @@
 ## 🛠️ Tech Stack
 
 ### **Languages:**
-![Java](https://img.shields.io/badge/Java-F8D28C?logo=java&logoColor=white&style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=black&style=flat-square)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
-![SQL](https://img.shields.io/badge/SQL-003B57?logo=mysql&logoColor=white&style=flat-square)
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=flat-square)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)
-![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white&style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat-square)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=flat-square)
+![Java](https://img.shields.io/badge/Java-F8D28C?logo=java&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=black&style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-003B57?logo=mysql&logoColor=white&style=flat-square)
 ![XML](https://img.shields.io/badge/XML-9B9B9B?logo=xml&logoColor=white&style=flat-square)
+![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white&style=flat-square)
 
 ### **Frameworks & Libraries:**
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square)
