@@ -2,7 +2,7 @@
 [![GitHub Profile](https://img.shields.io/badge/GitHub-Evan25--hash-blue?logo=github&logoColor=white&style=flat-square)](https://github.com/Evan25-hash)
 
 ## 👀 About Me
-- **Interests:** Software Development, Mobile Development, Embedded Systems, Innovative Tech Solutions
+- **Interests:** Internet of Things, Software Development, Mobile Development, Embedded Systems, Innovative Tech Solutions
 - **Currently Learning:** Advanced JavaScript Frameworks, Machine Learning Algorithms, AR Development
 - **Looking To Collaborate On:** Exciting Projects Involving Machine Learning, Web Development, Mobile Applications
 - **Pronouns:** He/Him
